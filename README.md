@@ -3,7 +3,7 @@
 HELP International is a humanitarian organization that works towards fighting poverty and providing basic necessities to people in underdeveloped countries. The organization has recently raised approximately $10 million, and the CEO is now faced with the task of deciding how to allocate these funds effectively. The main challenge is to determine which countries are in dire need of aid.
 
 **Data:**  
-We have used the HELP International Dataset for this project, which can be downloaded from https://www.kaggle.com/code/amritachatterjee09/clustering-help-international-ngo-aid. This dataset contains information for 167 countries on various development indicators such as health, education, social factors, etc.
+We have used the HELP International Dataset for this project, which can be downloaded from https://www.kaggle.com/code/amritachatterjee09/clustering-help-international-ngo-aid. This dataset contains information for 167 countries on various development indicators such as health, child morth, income, etc.
 
 **Methodology:**  
 We have used PCA (Principal Component Analysis) for dimension reduction and K-means clustering to group similar countries together. We continued the clustering process until we achieved a cluster containing 20 countries in dire need of financial assistance. This approach helped us efficiently identify those in the most need of aid
